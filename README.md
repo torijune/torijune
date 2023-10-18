@@ -8,8 +8,8 @@
   
 - 📫 How to contact me :
 - Email : dnjswnswkd03@naver.com (<- main)
-- : dnjswnswkd03@gmail.com
-- : dnjswnswkd03@mju.ac.kr
+- dnjswnswkd03@gmail.com
+- dnjswnswkd03@mju.ac.kr
 
 - About me :
 - Colleage : Myonugi University (2021 March ~ Present)
