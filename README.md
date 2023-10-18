@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @torijune (tori is my Dog's name at the Profile image)
+- 👋 Hi, I’m **@torijune** (tori is my Dog's name at the Profile image)
   
-- 👀 I’m interested in Machine Learning, Deep learing, Simulation, Optimizing, Business Intelligence
+- 👀 I’m interested in **Machine Learning, Deep learing, Simulation, Optimizing, Business Intelligence**
   
 - 🌱 I’m currently learning Deep Learning Model and its code by python **Pytorch**
   
