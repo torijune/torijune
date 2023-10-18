@@ -4,7 +4,7 @@
   
 - 🌱 I’m currently learning Deep Learning Model and its code by python **Pytorch**
   
-- 💞️ I’m looking to collaborate on
+- 💞️ I’m looking to collaborate on **BILAB (Business Intellinece LAB with Professor Mintak Han)**
   
 - 📫 How to contact me :
 - Email : dnjswnswkd03@naver.com (<- main)
