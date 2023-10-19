@@ -18,5 +18,4 @@
 -  Club1 : **'FOM'(Focus on Data Mining) - Data Mining Club (2023 March ~ Present)**
 -  Club2 : **'Time' - English conversation and Reading English Journal Club (2022 March ~ Present)**
   
-- I can handle :
-- **Python, Jupyter, Scikit Learn, TensorFlow, Pytorch, Keras, Groubi, AnyLogic, Figma**
+- I can handle : **Python, Jupyter, Scikit Learn, TensorFlow, Pytorch, Keras, Groubi, AnyLogic, Figma**
