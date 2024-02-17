@@ -20,15 +20,14 @@
   
 - I can handle : **Python, Jupyter, Scikit Learn, TensorFlow, Pytorch, Keras, Groubi, AnyLogic, Figma, Notion**
 
-
+## Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=torijune)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=torijune)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=torijune)](https://github.com/anuraghazra/github-readme-stats)
 https://starchart.cc/{username}/{repo}.svg
-
+## Tools
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 
