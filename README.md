@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/torijune"><img align="right" src="https://api.daily.dev/devcards/54371a309e0a49fdbb18b238d19f6ac9.png?r=kas" width="200" alt="Vedant Chainani's Dev Card"/></a>
+![Visitor Count](https://profile-counter.glitch.me/torijune/count.svg)
 
 - 👋 Hi, I’m **@torijune** (tori is my Dog's name at the Profile image)
   
