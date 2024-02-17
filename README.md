@@ -18,7 +18,8 @@
 - Main Major : **Mathematics (2021 March ~ Present)**
 -  Double Major : **Industrial and Management Engineering (2022 September ~ Present)**
 -  Colleage Club1 : **'FOM'(Focus on Data Mining) - Data Mining Club (2023 March ~ Present)**
-![대체 텍스트](KakaoTalk_20240218_002926553.)
+![fom image](KakaoTalk_20240218_002926553 =300x)
+
 -  Colleage Club2 : **'Time' - English conversation and Reading English Journal Club (2022 March ~ Present)**
   
 - I can handle : **Python, Jupyter, Scikit Learn, TensorFlow, Pytorch, Keras, Groubi, AnyLogic, Figma, Notion**
