@@ -29,7 +29,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=torijune)](https://github.com/anuraghazra/github-readme-stats)
 https://starchart.cc/{username}/{repo}.svg
 
-https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
+[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
+
 
 https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
 
