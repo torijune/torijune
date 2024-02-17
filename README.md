@@ -19,7 +19,7 @@
 -  Double Major : **Industrial and Management Engineering (2022 September ~ Present)**
 -  Colleage Club1 : **'FOM'(Focus on Data Mining) - Data Mining Club (2023 March ~ Present)**
 
-<img src="images/KakaoTalk_20240218_002926553.jpg" alt="fom image" width="300">
+<img src="image/KakaoTalk_20240218_002926553.jpg" alt="fom image" width="300">
 
 -  Colleage Club2 : **'Time' - English conversation and Reading English Journal Club (2022 March ~ Present)**
   
