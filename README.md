@@ -25,4 +25,16 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=torijune)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=torijune&hide=contribs,prs&show_icons=true&theme=테마)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=torijune)](https://github.com/anuraghazra/github-readme-stats)
+https://starchart.cc/{username}/{repo}.svg
+
+https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
+
+https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
+
+https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white
+
+https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
+
+https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252
