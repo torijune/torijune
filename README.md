@@ -19,3 +19,6 @@
 -  Colleage Club2 : **'Time' - English conversation and Reading English Journal Club (2022 March ~ Present)**
   
 - I can handle : **Python, Jupyter, Scikit Learn, TensorFlow, Pytorch, Keras, Groubi, AnyLogic, Figma, Notion**
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=torijune)](https://github.com/anuraghazra/github-readme-stats)
