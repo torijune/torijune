@@ -1,6 +1,6 @@
 ![Visitor Count](https://profile-counter.glitch.me/torijune/count.svg)
 
-![Creative](https://media.giphy.com/media/dZbkL5n7ExGD2/giphy.gif)
+![image](https://github.com/torijune/torijune/assets/128570787/95482e39-a050-4f93-9df2-ba0a48ae0f61)
 
 
 - 👋 Hi, I’m **@torijune** (tori is my Dog's name at the Profile image)
