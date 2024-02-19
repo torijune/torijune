@@ -1,6 +1,6 @@
 ![Visitor Count](https://profile-counter.glitch.me/torijune/count.svg)
 
- ![Machine Learning](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
+![Teamwork](https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif)
 
 
 - 👋 Hi, I’m **@torijune** (tori is my Dog's name at the Profile image)
