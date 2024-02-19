@@ -52,10 +52,10 @@
 
 <div align="center">
   <h2>Contact</h2>
-  <a href="dnjswnswkd03@gmail.com">
+  <a href="mailto:dnjswnswkd03@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-_-c14438?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail" height="30">
   </a>
-  <a href="dnjswnswkd03@naver.com">
+  <a href="mailto:dnjswnswkd03@naver.com">
     <img src="https://img.shields.io/badge/Naver-_-03c75a?style=flat-square&logo=naver&logoColor=white&labelColor=2DB400" alt="Naver" height="30">
   </a>
 </div>
