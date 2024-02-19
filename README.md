@@ -17,10 +17,6 @@
 
 - 👀 I’m interested in **Machine Learning, Deep learing, Simulation, Optimizing, Business Intelligence**
   
-- 🌱 I’m currently learning Deep Learning Model and its code by python **Pytorch**
-  
-- 💞️ I’m looking to collaborate on **BILAB (Business Intellinece LAB with Professor Mintak Han)**
-  
 - About me :
 - Colleage : **Myonugi University (2021 March ~ Present)**
 - Main Major : **Mathematics (2021 March ~ Present)**
