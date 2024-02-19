@@ -3,7 +3,9 @@
 ***
 <p align="center">Profile views</p>   
    
-<center>![Visitor Count](https://profile-counter.glitch.me/torijune/count.svg)</center>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/torijune/count.svg" alt="Visitor Count">
+</p>
 
 ***
 
