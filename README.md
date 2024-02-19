@@ -1,16 +1,16 @@
 ![Visitor Count](https://profile-counter.glitch.me/torijune/count.svg)
 
 - 👋 Hi, I’m **@torijune** (tori is my Dog's name at the Profile image)
-  [![Python](https://img.shields.io/badge/Python-3.6%2B-blue)](https://www.python.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
-[![Scikit Learn](https://img.shields.io/badge/Scikit%20Learn-latest-green)](https://scikit-learn.org/stable/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0%2B-yellow)](https://www.tensorflow.org/)
-[![Pytorch](https://img.shields.io/badge/Pytorch-1.0%2B-red)](https://pytorch.org/)
-[![Keras](https://img.shields.io/badge/Keras-2.0%2B-red)](https://keras.io/)
-[![Groubi](https://img.shields.io/badge/Groubi-latest-blue)](https://www.gurobi.com/)
-[![AnyLogic](https://img.shields.io/badge/AnyLogic-latest-orange)](https://www.anylogic.com/)
-[![Figma](https://img.shields.io/badge/Figma-latest-purple)](https://www.figma.com/)
-[![Notion](https://img.shields.io/badge/Notion-latest-pink)](https://www.notion.so/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
+[![Gurobi](https://img.shields.io/badge/Gurobi-56BDDC?style=for-the-badge&logo=gurobi&logoColor=white)](https://www.gurobi.com/)
+[![AnyLogic](https://img.shields.io/badge/AnyLogic-00589D?style=for-the-badge&logo=anylogic&logoColor=white)](https://www.anylogic.com/)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
 - 👀 I’m interested in **Machine Learning, Deep learing, Simulation, Optimizing, Business Intelligence**
   
 - 🌱 I’m currently learning Deep Learning Model and its code by python **Pytorch**
