@@ -1,22 +1,19 @@
-
-<p align="center">
-  <img src="image/다운로드.gif" alt="Welcome gif" width="300">
-</p>
-
 ***
-<p align="center">Profile views</p>   
-   
+<p align="center">
+  <img src="image/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="github image" width="30">
+  <strong>Profile Visitor Counts</strong></p>
 <p align="center">
   <img src="https://profile-counter.glitch.me/torijune/count.svg" alt="Visitor Count">
 </p>
 
 ***
 
-<img src="image/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="fom image" width="50" style="float: right;"> <img src="image/Dog.png" alt="fom image" width="50" style="float: right;">
+<p align="center">
+  <img src="image/다운로드.gif" alt="Welcome gif" width="250">
 
 
+- 👋 Hi, I’m **@torijune** (tori is my Dog's name at the Profile image) <img src="image/Dog.png" alt="fom image" width="30" style="float: right;">
 
-- 👋 Hi, I’m **@torijune** (tori is my Dog's name at the Profile image)
 
 - 👀 I’m interested in **Machine Learning, Deep learing, Simulation, Optimizing, Business Intelligence**
   
