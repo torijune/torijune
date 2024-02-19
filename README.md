@@ -1,7 +1,7 @@
 <img src="image/다운로드.gif" alt="fom image" width="300"> 
-* * *
+***
 ![Visitor Count](https://profile-counter.glitch.me/torijune/count.svg)
-* * *
+***
 <img src="image/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="fom image" width="50" style="float: right;"> <img src="image/Dog.png" alt="fom image" width="50" style="float: right;">
 
 
