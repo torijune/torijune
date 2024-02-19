@@ -2,6 +2,7 @@
 
 ***
 
+Profile views   
 ![Visitor Count](https://profile-counter.glitch.me/torijune/count.svg)
 
 ***
