@@ -1,5 +1,8 @@
 ![Visitor Count](https://profile-counter.glitch.me/torijune/count.svg)
 
+![Coding Cat](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
+
+
 - 👋 Hi, I’m **@torijune** (tori is my Dog's name at the Profile image)
 
 - 👀 I’m interested in **Machine Learning, Deep learing, Simulation, Optimizing, Business Intelligence**
