@@ -1,4 +1,7 @@
-<img src="image/다운로드.gif" alt="fom image" width="300"> 
+
+<p align="center">
+  <img src="image/다운로드.gif" alt="Welcome gif" width="300">
+</p>
 
 ***
 <p align="center">Profile views</p>   
