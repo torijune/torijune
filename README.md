@@ -1,8 +1,7 @@
 <img src="image/다운로드.gif" alt="fom image" width="300"> 
 
 ***
-
- Profile views   
+<p align="center">Profile views</p>   
    
 ![Visitor Count](https://profile-counter.glitch.me/torijune/count.svg)
 
