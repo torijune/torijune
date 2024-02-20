@@ -17,7 +17,7 @@
 - 👀 I’m interested in **Machine Learning, Deep learing, Simulation, Optimizing, Business Intelligence**
   
 ## About me :
-#### 🏫 Colleage : **Myonugi University (2021 March ~ Present)** 🏫
+#### 🏫 Colleage : **Myongji University (2021 March ~ Present)** 🏫
 
 #### 📐 Main Major : **Mathematics (2021 March ~ Present)** 🔢
 #### 📈 Double Major : **Industrial and Management Engineering (2022 September ~ Present)** 📊
