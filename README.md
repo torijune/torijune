@@ -22,7 +22,10 @@
 #### 📐 Main Major : **Mathematics (2021 March ~ Present)** 🔢
 #### 📈 Double Major : **Industrial and Management Engineering (2022 September ~ Present)** 📊
 #### Colleage Club1 : 💻 **'FOM'(Focus on Data Mining) - Data Mining Club (2023 March ~ Present)** 🖥️   
-<img src="image/KakaoTalk_20240218_002926553.jpg" alt="fom image" width="150" style="float: center;">
+
+<p align="center">
+  <img src="image/KakaoTalk_20240218_002926553.jpg" alt="fom image" width="150">
+</p>
 
 #### Colleage Club2 : 🗨️ **'Time' - English conversation and Reading English Journal Club (2022 March ~ Present)** 🗣️
 
