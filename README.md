@@ -48,7 +48,7 @@
 
 
 <div align="center">
-  <h2>Contact</h2>
+  <h2>Contact Me</h2>
   <a href="mailto:dnjswnswkd03@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-_-c14438?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail" height="30">
   </a>
