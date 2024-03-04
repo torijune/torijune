@@ -14,7 +14,7 @@
   <img src="image/다운로드.gif" alt="Welcome gif" width="250">
 
 
-- 👀 I’m interested in **Machine Learning, Deep learing, Simulation, Optimizing, Business Intelligence**
+- 👀 I’m interested in **Machine Learning, Deep learing, Nature Language Processing, Simulation, Optimizing, Business Intelligence**
   
 ## About me :
 #### 🏫 Colleage : **Myongji University (2021 March ~ Present)** 🏫
