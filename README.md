@@ -40,6 +40,7 @@
 [![AnyLogic](https://img.shields.io/badge/AnyLogic-00589D?style=for-the-badge&logo=anylogic&logoColor=white)](https://www.anylogic.com/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 
 ## Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=torijune)](https://github.com/anuraghazra/github-readme-stats)
