@@ -10,13 +10,9 @@
 
 ***
 
-<p align="center">
-  <img src="image/다운로드.gif" alt="Welcome gif" width="250">
-
-
-- 👀 I’m interested in **Machine Learning, Deep learing, Nature Language Processing, Simulation, Optimizing, Business Intelligence**
   
 ## About me :
+#### 🧠 Interest : Machine Learning & Deep Learning, Nature Language Processing (NLP), MLOps
 #### 🏫 College : **Myongji University (2021 March ~ Present)** 🏫
 
 #### 📐 Main Major : **Mathematics (2021 March ~ Present)** 🔢
