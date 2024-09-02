@@ -25,8 +25,7 @@
 
 #### Colleage Club2 : 🗨️ **'Time' - English conversation and Reading English Journal Club (2022 March ~ Present)** 🗣️
 
-### For more details about my experience and projects, please check out my CV
-### [CV](https://docs.google.com/document/d/10zphnaPm0uraIOBjWW61b3ztt4I0hvwS1Gp0rjU3b4M/edit?usp=sharing).
+### For more details about my experience and projects, please check out my CV : [📄](https://docs.google.com/document/d/10zphnaPm0uraIOBjWW61b3ztt4I0hvwS1Gp0rjU3b4M/edit?usp=sharing)
 
 ## Skills
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
