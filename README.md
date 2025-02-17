@@ -39,6 +39,10 @@
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
 [![AWS](https://img.shields.io/badge/Amazon%20AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFBB00?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/)
+[![LangChain](https://img.shields.io/badge/LangChain-3A76F0?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+
 
 ## Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=torijune)](https://github.com/anuraghazra/github-readme-stats)
