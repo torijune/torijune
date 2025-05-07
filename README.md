@@ -19,7 +19,7 @@
 #### 📈 Double Major : **Industrial and Management Engineering (2022 September ~ Present)** 📊
 #### Colleage Club1 : 💻 **'FOM'(Focus on Data Mining) - Data Mining Club (2023 March ~ Present)** 🖥️   
 
-#### Colleage Club2 : 🗨️ **'Time' - English conversation and Reading English Journal Club (2022 March ~ Present)** 🗣️
+#### Colleage Club2 : 🗨️ **'Time' - English conversation and Reading English Journal Club (2022 March ~ 2024 March)** 🗣️
 
 ### For more details about my experience and projects, please check out my CV : [📄](https://www.overleaf.com/read/mykvzjvcdkgw#9c2062)
 
