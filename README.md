@@ -39,6 +39,7 @@
 [![LangChain](https://img.shields.io/badge/LangChain-3A76F0?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)
 [![LangGraph](https://img.shields.io/badge/LangGraph-00C853?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langgraph.com/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 
 
 ## Github Stats
