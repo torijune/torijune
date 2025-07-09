@@ -5,7 +5,7 @@
   <img src="image/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="github image" width="30">
   <strong>Profile Visitor Counts</strong></p>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/torijune/count.svg" alt="Visitor Count">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=torijune.torijune&style=flat-square&color=blueviolet" alt="Visitor Count" />
 </p>
 
 ***
