@@ -1,16 +1,5 @@
 # 👋 Hi, I’m Torijune <img src="image/Dog.png" alt="fom image" width="40" style="float: right;"> Welcome to my profile!
 
-***
-<p align="center">
-  <img src="image/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="github image" width="30">
-  <strong>Profile Visitor Counts</strong></p>
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=torijune.torijune&style=flat-square&color=blueviolet" alt="Visitor Count" />
-</p>
-
-***
-
-  
 ## About me :
 #### 🧠 Interest : Machine Learning & Deep Learning, Nature Language Processing (NLP), MLOps
 #### 🏫 College : **Myongji University (2021 March ~ Present)** 🏫
