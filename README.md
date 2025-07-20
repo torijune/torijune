@@ -10,10 +10,11 @@
 
 #### Colleage Club2 : 🗨️ **'Time' - English conversation and Reading English Journal Club (2022 March ~ 2024 March)** 🗣️
 
-### For more details about my experience and projects  
-- Google Scholar: [🎓 Scholar Profile](https://scholar.google.com/citations?user=2NowlBIAAAAJ&hl=ko)
-- Check out my CV!! : [📄 Curriculum Vitae](https://www.overleaf.com/read/mykvzjvcdkgw#9c2062)  
+## 🔎 For more details about my experience and projects
 
+### 🎓 [Scholar Profile](https://scholar.google.com/citations?user=2NowlBIAAAAJ&hl=ko)
+
+### 📄 [Curriculum Vitae (CV)](https://www.overleaf.com/read/mykvzjvcdkgw#9c2062)
 
 ---
 
