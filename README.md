@@ -13,9 +13,9 @@
 
 ## 🔎 For more details about my experience and projects
 
-### 🎓 [Scholar Profile](https://scholar.google.com/citations?user=2NowlBIAAAAJ&hl=ko)
+### 📚 [Scholar Profile](https://scholar.google.com/citations?user=2NowlBIAAAAJ&hl=ko)
 
-### 🎓 [Linkedin](https://www.linkedin.com/in/%EC%9B%90%EC%A4%80-%EC%9E%A5-765a6a280/)
+### 🌐 [Linkedin](https://www.linkedin.com/in/%EC%9B%90%EC%A4%80-%EC%9E%A5-765a6a280/)
 
 ### 📄 [Curriculum Vitae (CV)](https://www.overleaf.com/read/mykvzjvcdkgw#9c2062)
 
