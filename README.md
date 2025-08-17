@@ -45,12 +45,6 @@
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
 
 
-## Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=torijune)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=torijune&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <div align="center">
   <h2>Contact Me</h2>
   <a href="mailto:dnjswnswkd03@gmail.com">
