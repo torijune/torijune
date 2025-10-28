@@ -1,9 +1,11 @@
 # 👋 Hi, I’m Torijune <img src="image/Dog.png" alt="fom image" width="40" style="float: right;"> Welcome to my profile!
 
 ## About me :
-#### 🎯 Interests: LLM Researcher, LLM Engineer
-#### 🧠Domains: Natural Language Processing (NLP), LLM Alignment, LLM Service & MLOps
-#### 🏫 College : **Myongji University (2021 March ~ Present)** 🏫
+### Undergraduate Research Intern
+### [DMIS Lab, Korea University](https://dmis.korea.ac.kr/home), [Advisor: Prof. Jaewoo Kang](https://dmis.korea.ac.kr/jaewoo-kang-p-i) (2025.10 ~ Present)  
+#### Research Interests: Large Language Model(LLM), Nature Language Processing(NLP)
+#### Domains: Biomedical NLP, LLM Application
+#### College : **Myongji University (2021 March ~ Present)** 
 
 #### 📐 Main Major : **Mathematics (2021 March ~ Present)** 🔢
 #### 📈 Double Major : **Industrial and Management Engineering (2022 September ~ Present)** 📊
