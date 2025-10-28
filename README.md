@@ -5,13 +5,13 @@
 ### At [DMIS Lab, Korea University](https://dmis.korea.ac.kr/home), [Advisor: Prof. Jaewoo Kang](https://dmis.korea.ac.kr/jaewoo-kang-p-i) (2025.10 ~ Present)  
 #### Research Interests: Large Language Model(LLM), Nature Language Processing(NLP)
 #### Domains: Biomedical NLP, LLM Application
-#### College : **Myongji University (2021 Mar ~ Present)** 
+#### College : **Myongji University (Mar. 2021 ~ Present)** 
 
 #### 📐 Main Major : **Mathematics (2021 Mar ~ Present)** 🔢
-#### 📈 Double Major : **Industrial and Management Engineering (2022 Sep ~ 2025 Sep)** 📊
-#### Colleage Club1 : 💻 **'FOM'(Focus on Data Mining) - Data Mining Club (2023 Mar ~ Present)** 🖥️   
+#### 📈 Double Major : **Industrial and Management Engineering (Sep. 2022 ~ Sep. 2025)** 📊
+#### Colleage Club1 : 💻 **'FOM'(Focus on Data Mining) - Data Mining Club (Mar. 2023 ~ Present)** 🖥️   
 
-#### Colleage Club2 : 🗨️ **'Time' - English conversation and Reading English Journal Club (2022 Mar ~ 2024 Mar)** 🗣️
+#### Colleage Club2 : 🗨️ **'Time' - English conversation and Reading English Journal Club (Mar. 2022 ~ Mar. 2024)** 🗣️
 
 ## 🔎 For more details about my experience and projects
 
