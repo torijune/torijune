@@ -2,7 +2,7 @@
 
 ## About me :
 ### Undergraduate Research Intern
-### [DMIS Lab, Korea University](https://dmis.korea.ac.kr/home), [Advisor: Prof. Jaewoo Kang](https://dmis.korea.ac.kr/jaewoo-kang-p-i) (2025.10 ~ Present)  
+### At [DMIS Lab, Korea University](https://dmis.korea.ac.kr/home), [Advisor: Prof. Jaewoo Kang](https://dmis.korea.ac.kr/jaewoo-kang-p-i) (2025.10 ~ Present)  
 #### Research Interests: Large Language Model(LLM), Nature Language Processing(NLP)
 #### Domains: Biomedical NLP, LLM Application
 #### College : **Myongji University (2021 March ~ Present)** 
